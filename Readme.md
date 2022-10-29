@@ -19,5 +19,6 @@
     ✔️ Using Flexbox in CSS 
     ✔️ How to position elements on a webpage
     ✔️ Using Media queries to make it responsive
+    ✔️ Designing Navbar, Cards, and footer.
 
 > This project took around _**1.5 hours**_ to complete.
